@@ -1,0 +1,5 @@
+console.writeline("tables");
+console.writeline("chair");
+console.writeline("basket");
+console.writeline("knife");
+console.writeline("sugar");
